@@ -3,4 +3,5 @@
 ## Attendees
 
 * Carole Rennie Logan (@crgrieve)
+* Kristina Kuzeva (@krisi6012)
 ... add your name here.
